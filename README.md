@@ -15,7 +15,7 @@ This is a simple Python application that allows users to submit information anon
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/temwni-msiska/silentsubmission.git
+    git clone https://github.com/temwani-msiska/silentsubmission.git
     ```
 
 2. Navigate to the project directory:
